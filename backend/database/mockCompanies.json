@@ -1,0 +1,303 @@
+[
+  {
+    "id": 1,
+    "name": "PanonIT",
+    "speciality": "Excavation",
+    "city": "Novi Sad"
+  },
+  {
+    "id": 2,
+    "name": "AutoTech",
+    "speciality": "Electrical",
+    "city": "Moscow"
+  },
+  {
+    "id": 3,
+    "name": "TechAuto",
+    "speciality": "Plumbing",
+    "city": "Novi Sad"
+  },
+  {
+    "id": 4,
+    "name": "Brand Lab",
+    "speciality": "Plumbing",
+    "city": "Kragujevac"
+  },
+  {
+    "id": 5,
+    "name": "Dude Solution",
+    "speciality": "Electrical",
+    "city": "Subotica"
+  },
+  {
+    "id": 6,
+    "name": "Lift.Co",
+    "speciality": "Excavation",
+    "city": "Novi Pazar"
+  },
+  {
+    "id": 7,
+    "name": "Venmo",
+    "speciality": "Electrical",
+    "city": "Kraljevo"
+  },
+  {
+    "id": 8,
+    "name": "Snapcha",
+    "speciality": "Plumbing",
+    "city": "Leskovac"
+  },
+  {
+    "id": 9,
+    "name": "Chando.inc",
+    "speciality": "Electrical",
+    "city": "Smederevo"
+  },
+  {
+    "id": 10,
+    "name": "Toyoda",
+    "speciality": "Electrical",
+    "city": "Zrenjanin"
+  },
+  {
+    "id": 11,
+    "name": "BestBuy",
+    "speciality": "Plumbing",
+    "city": "Sremski Karlovci"
+  },
+  {
+    "id": 12,
+    "name": "Paypal",
+    "speciality": "Excavation",
+    "city": "Vranje"
+  },
+  {
+    "id": 13,
+    "name": "Pando.co",
+    "speciality": "Electrical",
+    "city": "Sremska Mitrovica"
+  },
+  {
+    "id": 14,
+    "name": "Paser",
+    "speciality": "Excavation",
+    "city": "Pancevo"
+  },
+  {
+    "id": 15,
+    "name": "Jazil Auto",
+    "speciality": "Plumbing",
+    "city": "Sombor"
+  },
+  {
+    "id": 16,
+    "name": "Sanda.Inc",
+    "speciality": "Excavation",
+    "city": "Sremska Mitrovica"
+  },
+  {
+    "id": 17,
+    "name": "Ari.Tech",
+    "speciality": "Electrical",
+    "city": "Jagodina"
+  },
+  {
+    "id": 18,
+    "name": "Brooksource",
+    "speciality": "Electric",
+    "city": "Jagodina"
+  },
+  {
+    "id": 19,
+    "name": "AdHoc",
+    "speciality": "Excavation",
+    "city": "Sabac"
+  },
+  {
+    "id": 20,
+    "name": "Kandon",
+    "speciality": "Electrical",
+    "city": "Wangdan"
+  },
+  {
+    "id": 21,
+    "name": "Scrum.Co",
+    "speciality": "Plumbing",
+    "city": "Becej"
+  },
+  {
+    "id": 22,
+    "name": "Pantana",
+    "speciality": "Excavation",
+    "city": "Paracin"
+  },
+  {
+    "id": 23,
+    "name": "Taijing",
+    "speciality": "Plumbing",
+    "city": "Cuprija"
+  },
+  {
+    "id": 24,
+    "name": "Wonder.co",
+    "speciality": "Electrical",
+    "city": "Belgrade"
+  },
+  {
+    "id": 25,
+    "name": "Codete",
+    "speciality": "Electrical",
+    "city": "Coka"
+  },
+  {
+    "id": 26,
+    "name": "PayPo",
+    "speciality": "Plumbing",
+    "city": "Belgrade"
+  },
+  {
+    "id": 27,
+    "name": "Awesine.Inc",
+    "speciality": "Excavation",
+    "city": "Vrbas"
+  },
+  {
+    "id": 28,
+    "name": "Nike",
+    "speciality": "Electrical",
+    "city": "Senta"
+  },
+  {
+    "id": 29,
+    "name": "Titel.co",
+    "speciality": "Excavation",
+    "city": "Paracin"
+  },
+  {
+    "id": 30,
+    "name": "Wandsome",
+    "speciality": "Plumbing",
+    "city": "Stara Pazova"
+  },
+  {
+    "id": 31,
+    "name": "Benz",
+    "speciality": "Electrical",
+    "city": "Belgrade"
+  },
+  {
+    "id": 32,
+    "name": "Pasanda",
+    "speciality": "Excavation",
+    "city": "London"
+  },
+  {
+    "id": 33,
+    "name": "Gando.co",
+    "speciality": "Plumbing",
+    "city": "Atlanta"
+  },
+  {
+    "id": 34,
+    "name": "Tongins.co",
+    "speciality": "Plumbing",
+    "city": "New York"
+  },
+  {
+    "id": 35,
+    "name": "Gangsan",
+    "speciality": "Electrical",
+    "city": "Tokyo"
+  },
+  {
+    "id": 36,
+    "name": "Nintendo.co",
+    "speciality": "Excavation",
+    "city": "Beijing"
+  },
+  {
+    "id": 37,
+    "name": "Nissan",
+    "speciality": "Electrical",
+    "city": "Paris"
+  },
+  {
+    "id": 38,
+    "name": "Honda",
+    "speciality": "Plumbing",
+    "city": "Dallas"
+  },
+  {
+    "id": 39,
+    "name": "Gansan",
+    "speciality": "Plumbing",
+    "city": "Wuhan"
+  },
+  {
+    "id": 40,
+    "name": "Thunder",
+    "speciality": "Electrical",
+    "city": "Titel"
+  },
+  {
+    "id": 41,
+    "name": "Wonwon",
+    "speciality": "Excavation",
+    "city": "Negotin"
+  },
+  {
+    "id": 42,
+    "name": "BMW",
+    "speciality": "Electrical",
+    "city": "Berlin"
+  },
+  {
+    "id": 43,
+    "name": "Hireright",
+    "speciality": "Plumbing",
+    "city": "Moscow"
+  },
+  {
+    "id": 44,
+    "name": "GazProm",
+    "speciality": "Plumbing",
+    "city": "Moscow"
+  },
+  {
+    "id": 45,
+    "name": "Singsing",
+    "speciality": "Excavation",
+    "city": "Miami"
+  },
+  {
+    "id": 46,
+    "name": "Microsoft",
+    "speciality": "Electrical",
+    "city": "Los Angels"
+  },
+  {
+    "id": 47,
+    "name": "Poiton",
+    "speciality": "Plumbing",
+    "city": "Sydney"
+  },
+  {
+    "id": 48,
+    "name": "Sindo",
+    "speciality": "Excavation",
+    "city": "Atlanta"
+  },
+  {
+    "id": 49,
+    "name": "Qieks",
+    "speciality": "Plumbing",
+    "city": "New York"
+  },
+
+  {
+    "id": 50,
+    "name": "Reason.Inc",
+    "speciality": "Electrical",
+    "city": "Belgrade"
+  }
+]
